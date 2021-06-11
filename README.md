@@ -1,1 +1,1 @@
-README.md
+Tutorial de MySQL para tutoras en linea. Todas las referencias estarán incorporadas según se este utilizando.  
