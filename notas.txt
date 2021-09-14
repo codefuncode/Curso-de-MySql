@@ -1,8 +1,45 @@
-README.md
+sudo /opt/lampp/lampp start
+
+En el directorio documentación mas detalles 
 
 
- Conceptos 
-
+https://www.mariadbtutorial.com/
+https://www.tutorialspoint.com/mariadb/index.htm
+Conceptos
+ 
+MariaDB - Home
+MariaDB - Introduction
+MariaDB - Installation
+MariaDB - Administration
+MariaDB - PHP Syntax
+MariaDB - Connection
+MariaDB - Create Database
+MariaDB - Drop Database
+MariaDB - Select Database
+MariaDB - Data Types
+MariaDB - Create Tables
+MariaDB - Drop Tables
+MariaDB - Insert Query
+MariaDB - Select Query
+MariaDB - Where Clause
+MariaDB - Update Query
+MariaDB - Delete Query
+MariaDB - Like Clause
+MariaDB - Order By Clause
+MariaDB - Join
+MariaDB - Null Values
+MariaDB - Regular Expression
+MariaDB - Transactions
+MariaDB - Alter Command
+Indexes & Statistics Tables
+MariaDB - Temporary Tables
+MariaDB - Table Cloning
+MariaDB - Sequences
+MariaDB - Managing Duplicates
+MariaDB - SQL Injection Protection
+MariaDB - Backup Methods
+MariaDB - Backup Loading Methods
+MariaDB - Useful Functions
 
 MySQL - Inicio
 MySQL - Introducción
