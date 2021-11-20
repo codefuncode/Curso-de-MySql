@@ -46,7 +46,7 @@ SELECT CONCAT_WS('', @a, @b, @c);
 | CONCAT_WS('', @a, @b, @c) |
 +---------------------------+
 | ac                        |
-+---------------------------+
++---------------------------+															
 
 
 -- La declaración SET asigna valores a diferentes 
