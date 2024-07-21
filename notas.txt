@@ -6,6 +6,7 @@ En el directorio documentación mas detalles
 https://www.mariadbtutorial.com/
 https://www.tutorialspoint.com/mariadb/index.htm
 https://www.javatpoint.com/mysql-tutorial
+https://www.w3schools.com/mysql/default.asp
 Conceptos
  
 MariaDB - Home
