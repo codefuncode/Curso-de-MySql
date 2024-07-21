@@ -7,6 +7,7 @@ https://www.mariadbtutorial.com/
 https://www.tutorialspoint.com/mariadb/index.htm
 https://www.javatpoint.com/mysql-tutorial
 https://www.w3schools.com/mysql/default.asp
+https://devdocs.io/mariadb-sql-statements-structure/
 Conceptos
  
 MariaDB - Home
